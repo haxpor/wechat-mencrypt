@@ -1,0 +1,27 @@
+{
+  "name": "wechat-mencrypt",
+  "version": "0.1.0",
+  "description": "WeChat Official Account's message encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxpor/wechat-mencrypt.git"
+  },
+  "keywords": [
+    "wechat",
+    "encryption",
+    "decryption",
+    "encrypt",
+    "decrypt",
+    "message"
+  ],
+  "author": "Wasin Thonkaew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haxpor/wechat-mencrypt/issues"
+  },
+  "homepage": "https://github.com/haxpor/wechat-mencrypt#readme"
+}
