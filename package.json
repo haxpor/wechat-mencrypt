@@ -18,7 +18,11 @@
     "decrypt",
     "message"
   ],
-  "author": "Wasin Thonkaew",
+  "author": {
+    "name": "Wasin Thonkaew",
+    "email": "haxpor@gmail.com",
+    "url": "https://wasin.io"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/haxpor/wechat-mencrypt/issues"
